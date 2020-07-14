@@ -1,11 +1,11 @@
 # Site settings
 author: Christopher Holloway
-title: 
+title: "A Stroll Into The Fray"
 header-img: img/home-bg.png
 email: mrcholloway@yahoo.com
 copyright_name: Christopher Holloway
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey Through Late Stage Career Redefinition 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mrcholloway
